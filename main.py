@@ -24,36 +24,3 @@ for key, item in aer_dict.items():
 
     print(key, item)
 
-
-
-
-
-
-
-
-#
-# result = 0
-# AER = 0
-# ABA = 0
-# ARH = 0
-# GRV = 0
-#
-# file = open('data.txt', 'r')
-# # with open("data.txt", "r") as file:
-# for line in file:
-#     if 'ABA' in line:
-#         ABA += 1
-#     if 'AER' in line:
-#         AER += 1
-#     if 'ARH' in line:
-#         ARH += 1
-#     if 'GRV' in line:
-#         GRV += 1
-#     result += 1
-# file.close()
-#
-# print(result)
-# print("AER =", AER)
-# print("ABA =", ABA)
-# print("ARH =", ARH)
-# print("GRV =", GRV)
