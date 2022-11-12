@@ -1,6 +1,6 @@
 import numpy # импортируем библиотеку
 
-from data_for_array import *
+from data_for_array2 import *
 
 
 M = numpy.array(A) # Матрица (левая часть системы)
